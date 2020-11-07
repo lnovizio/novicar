@@ -5,4 +5,6 @@ class PagesController < ApplicationController
   end
   def contacts
   end
+  def luogo
+  end
 end
